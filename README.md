@@ -1,7 +1,7 @@
 ***
 
-# Tic Tec - 2020 ![img1][https://i.ibb.co/W5rMqz5/logo1-peque-o.jpg]
-
+# Tic Tec - 2020 
+![img1][https://i.ibb.co/W5rMqz5/logo1-peque-o.jpg]
 ***
 
 ### Información
