@@ -1,12 +1,12 @@
 ***
 
-#Tic Tec - 2020
+# Tic Tec - 2020
 
----
+***
 
-###Información
+### Información
 
-___
+***
 
 Este proyecto esta basado en una aplicación web creada bajo el framework
 de codeigniter. En esta aplicación web esta implementada la funcionalidad
@@ -16,4 +16,4 @@ programación. Los usuarios pueden tener el rol de estudiante o de profesor
 profesor ademas de poder realizar los cursos, puedes crear los tuyos,
 una vez creado se debera comprobar por los expertos de Tic Tec.
 
-___
+***
