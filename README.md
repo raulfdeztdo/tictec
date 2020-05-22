@@ -1,12 +1,6 @@
 ***
-
-<<<<<<< HEAD
-# Tic Tec - 2020 [img1]:https://i.ibb.co/W5rMqz5/logo1-peque-o.jpg "Logo-Imagen"
-
-=======
-# Tic Tec - 2020 
-![img1][https://i.ibb.co/W5rMqz5/logo1-peque-o.jpg]
->>>>>>> ccb4193ce3c7a111d8a7466a4cdd20a3f5cf570b
+# Tic Tec - 2020
+[img1]:https://i.ibb.co/W5rMqz5/logo1-peque-o.jpg "Logo-Imagen"
 ***
 
 ### Información
