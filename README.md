@@ -1,5 +1,5 @@
 ***
-![img1](myapp/assets/img/logo1-pequeño.jpg)
+![img1](myapp/assets/img/logo1.jpg)
 # Tic Tec - 2020
 
 ***
@@ -17,3 +17,8 @@ profesor ademas de poder realizar los cursos, puedes crear los tuyos,
 una vez creado se debera comprobar por los expertos de Tic Tec.
 
 ***
+
+#### Storyboard inicial de la aplicación web
+
+![img1](myapp/assets/img/StoryBoard-TicTec.png)
+
