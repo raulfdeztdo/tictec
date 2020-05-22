@@ -1,6 +1,5 @@
 ***
-# Tic Tec - 2020
-![img1](myapp/assets/img/logo1-pequeño.jpg)
+# Tic Tec - 2020 ![img1](myapp/assets/img/logo1-pequeño.jpg)
 ***
 
 ### Información
